@@ -1,4 +1,4 @@
-#Arduino Smartbin
+# Arduino Smartbin
 
 SmartBin (also called Ziggy) is an Arduino-powered smart trashcan designed to make waste management cleaner, more efficient, and more fun! By combining servo motors, ultrasonic sensors, and sound detection, Ziggy offers the following innovative features:
 
